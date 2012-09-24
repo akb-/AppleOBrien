@@ -207,7 +207,6 @@ input.ui-slider-input {
 /* === TEXT FIELD === */
 input.ui-input-text {
 	height: 31px;
-	background-color: #FFF;
 	border: 1px solid #bbbbbb;
 		-webkit-box-shadow: 0 1px 3px rgba(0,0,0,0.3) inset;
 		-moz-box-shadow: 0 1px 3px rgba(0,0,0,0.3) inset;
