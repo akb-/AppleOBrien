@@ -23,11 +23,11 @@
 
  <preference name="stay-in-webview" value="true" />
  <preference name="show-splash-screen-spinner" value="true" />
-<gap:plugin name="ChildBrowser" /> <!-- latest release -->
+<gap:plugin name="ChildBrowser" version="~3" /> <!-- for Cordova (1.9.0+) -->
 
 	<feature name="http://api.phonegap.com/1.0/geolocation"/>
 	<feature name="http://api.phonegap.com/1.0/network"/>
-	<preference name="fullscreen" value="true" />
+	<preference name="fullscreen" value="false" />
 
 <access origin="http://obrienpharmacy.com" />
 <access origin="http://andrewkbutler.com" />
